@@ -1,0 +1,6 @@
+{
+  "name": "DreamCanvas",
+  "description": "An AI-powered web application where users can describe a dream to receive a surreal, dream-like image and a gentle, emotionally intelligent interpretation.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
