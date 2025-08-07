@@ -1,4 +1,4 @@
-# 🌌 DreamCanvas – AI-Powered Dream Interpreter & Art Generator
+<h1 align="center">🌌 DreamCanvas – AI-Powered Dream Interpreter & Art Generator</h1>
 
 Turn your dreams into stories and art.  
 **DreamCanvas** is a serene, AI-powered web app that interprets your dreams and creates surreal, high-fantasy illustrations to match — powered by **Google Gemini** and **Imagen**.
