@@ -2,6 +2,7 @@
 
 Turn your dreams into stories and art.  
 **DreamCanvas** is a serene, AI-powered web app that interprets your dreams and creates surreal, high-fantasy illustrations to match — powered by **Google Gemini** and **Imagen**.
+> "Every dream has a story. Every story deserves an image." 🌙
 
 <!-- ![DreamCanvas Preview](./preview.png)  -->
 
@@ -31,9 +32,11 @@ Turn your dreams into stories and art.
 
 ## 🛠 Tech Stack
 
-- **Frontend:** React + TypeScript + Vite
-- **AI Models:** Google **Gemini** (Text) + **Imagen** (Images)
-- **Styling:** TailwindCSS
+| Category   | Technology               |
+| ---------- | ------------------------ |
+| Frontend   | ![Tech Stack](https://skillicons.dev/icons?i=react,typescript,vite) |
+| Styling | ![Tech Stack](https://skillicons.dev/icons?i=tailwind) |
+| AI Models      | Google **Gemini** (Text) + **Imagen** (Images) |
 
 ---
 
@@ -56,9 +59,20 @@ echo "VITE_API_KEY=your_gemini_api_key_here" > .env.local
 
 ---
 
-## 🤝🏻 Contributing
-Contributions are welcome! Feel free to fork the project, open an issue, or submit a pull request.
+## 👤 Author
+
+Hadil Ben Abdallah  
+🎓 Software Engineer | ✍🖋 Technical Content Creator | 📱 Social Media Content Creator  
+[🌐 Portfolio](https://hadilbenabdallah.vercel.app/) | [👩🏻‍💼 LinkedIn](https://www.linkedin.com/in/hadil-ben-abdallah/) | [📝 Dev.to](https://dev.to/hadil)
 
 ---
 
-> "Every dream has a story. Every story deserves an image." 🌙
+## 🌟 Show Your Support
+
+If you like this project:
+
+⭐️ Star the repo  
+🔁 Share it with others  
+🛠️ Fork it and build your version!
+
+<h6 align="center">Made with 💙 By Hadil Ben Abdallah</h6>
