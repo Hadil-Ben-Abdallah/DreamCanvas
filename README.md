@@ -4,8 +4,8 @@ Turn your dreams into stories and art.
 **DreamCanvas** is a serene, AI-powered web app that interprets your dreams and creates surreal, high-fantasy illustrations to match — powered by **Google Gemini** and **Imagen**.
 > "Every dream has a story. Every story deserves an image." 🌙
 
-<a href=""><img src="imgs/img1.png" width="500" height="500"/></a>
-<a href=""><img src="imgs/img2.png" width="500" height="500"/></a>
+<a href=""><img src="imgs/img1.png" width="450" height="500"/></a>
+<a href=""><img src="imgs/img2.png" width="450" height="500"/></a>
 <a href=""><img src="imgs/The_Moons_That_Remember.jpeg" /></a>
 
 ---
