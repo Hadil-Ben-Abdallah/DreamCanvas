@@ -71,6 +71,12 @@ Hadil Ben Abdallah
 
 ---
 
+## ⚖ License
+
+[MIT License](LICENSE)
+
+---
+
 ## 🌟 Show Your Support
 
 If you like this project:
